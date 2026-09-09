@@ -4,4 +4,4 @@
 Python 3
 
 ## Description
-This program uses SHA-256 hashing to generate and verify file hashes.
+This program uses hashing to generate and verify file hashes.
